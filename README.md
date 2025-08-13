@@ -60,7 +60,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,java,python,next,js,tailwindcss,git,firebase,linux,vscode,androidstudio,postman,github,pytorch,eclipse,xcode" />
+    <img src="https://skillicons.dev/icons?i=react,flutter,ts,js,dart,java,python,next,tailwindcss,git,firebase,linux,vscode,androidstudio,postman,github,pytorch,eclipse,aws,figma,cpp,vscode,npm" />
   </a>
 </p>
 
