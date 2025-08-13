@@ -24,10 +24,10 @@
 - **Domain-Driven Design (DDD)**
 - **Clean Architecture**
 - **Layered Architecture**
-- **BLoC and State Management Principles**
+- **State Management Principles**
 - **Service-Oriented Design**
 - **CI/CD and GitOps**
-- **Microservice Thinking (even in monoliths)**
+- **Test Driven Development**
 
 ---
 
@@ -51,7 +51,7 @@
 ## 🚀 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vymn&hide=html&layout=compact&theme=midnight-purple" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimKhanLughmani&hide=html&layout=compact&theme=midnight-purple" alt="Top Languages" />
 </p>
 
 ---
@@ -60,7 +60,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,python,nodejs,vue,js,tailwindcss,bootstrap,git,firebase,linux,vscode,androidstudio,postman,github,gitlab,pytorch,unreal,eclipse,netbeans" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,java,python,next,js,tailwindcss,git,firebase,linux,vscode,androidstudio,postman,github,pytorch,eclipse,xcode" />
   </a>
 </p>
 
@@ -81,7 +81,7 @@
 <!-- Uncomment if needed -->
 
 - 🌐 [LinkedIn](https://www.linkedin.com/)
-- 💼 [Portfolio](https://google.com)
+- 💼 [Portfolio](https://ibz-portfolio.netlify.app)
 
 
 > 📬 Explore my work, read the code, and enjoy your journey.  
