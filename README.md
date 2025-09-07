@@ -76,12 +76,12 @@
 
 ---
 
-## 🧭 Let's Connect
+// ## 🧭 Let's Connect
 
 <!-- Uncomment if needed -->
 
-- 🌐 [LinkedIn](https://www.linkedin.com/)
-- 💼 [Portfolio](https://ibz-portfolio.netlify.app)
+// - 🌐 [LinkedIn](https://www.linkedin.com/in/ibrahim-khan-lughmani)
+// - 💼 [Portfolio](https://ibz-portfolio.netlify.app)
 
 
 > 📬 Explore my work, read the code, and enjoy your journey.  
