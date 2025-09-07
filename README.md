@@ -13,7 +13,7 @@
 
 - 🧠 **Software Engineer** passionate about **clean code**, **domain-driven design**, and **architecture patterns**.
 - 🏗️ Skilled in building **modular**, **scalable**, and **maintainable** systems for both frontend and backend.
-- 📱 Specialized in **mobile development** with Flutter, integrated with Firebase and RESTful APIs.
+- 📱 Specialized in **frontend development** with modern frameworks.
 - ⚙️ Advocate for **SOLID principles**, **layered architectures**, and **separation of concerns**.
 - 📈 Constantly evolving — studying real-world systems, patterns, and distributed architecture.
 
